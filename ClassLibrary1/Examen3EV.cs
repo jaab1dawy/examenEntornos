@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System;
 
-namespace Examen3EV_NS
+namespace JAAB2021YExamen3EV_NS
 {
     public class EstadisticaNotas  // esta clase nos calcula las estadísticas de un conjunto de notas 
     {
